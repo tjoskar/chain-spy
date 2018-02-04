@@ -23,5 +23,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tjoskar/chain-spy"
+  },
+  "jest": {
+    "coverageDirectory": "./coverage/",
+    "collectCoverage": true
   }
 }
