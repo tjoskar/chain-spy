@@ -1,4 +1,4 @@
-# chain-spy [![Build Status](https://travis-ci.org/tjoskar/chain-spy.svg?branch=master)](https://travis-ci.org/tjoskar/chain-spy) [![Coverage Status](https://coveralls.io/repos/github/tjoskar/chain-spy/badge.svg?branch=master)](https://coveralls.io/github/tjoskar/chain-spy?branch=master)
+# chain-spy [![Build Status](https://travis-ci.org/tjoskar/chain-spy.svg?branch=master)](https://travis-ci.org/tjoskar/chain-spy) [![codecov](https://codecov.io/gh/tjoskar/chain-spy/branch/master/graph/badge.svg)](https://codecov.io/gh/tjoskar/chain-spy)
 
 > Let's you spy on a chain
 
