@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Chain execution 1`] = `
+Array [
+  Object {
+    "name": "hello",
+    "type": "get",
+  },
+  Object {
+    "name": "world",
+    "type": "get",
+  },
+  Object {
+    "args": Array [
+      5,
+    ],
+    "type": "apply",
+  },
+  Object {
+    "name": "some",
+    "type": "get",
+  },
+  Object {
+    "name": "else",
+    "type": "get",
+  },
+  Object {
+    "args": Array [
+      1,
+    ],
+    "type": "apply",
+  },
+  Object {
+    "name": "select",
+    "type": "get",
+  },
+  Object {
+    "args": Array [
+      "id",
+      "name",
+    ],
+    "type": "apply",
+  },
+  Object {
+    "name": "from",
+    "type": "get",
+  },
+  Object {
+    "args": Array [
+      "table",
+    ],
+    "type": "apply",
+  },
+]
+`;

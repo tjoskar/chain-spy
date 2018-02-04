@@ -1,0 +1,27 @@
+{
+  "name": "chain-spy",
+  "description": "Let's you spy on a chain",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "tjoskar <kontakta@oskarkarlsson.nu>",
+  "bugs": {
+    "url": "https://github.com/tjoskar/chain-spy/issues",
+    "email": "kontakta@oskarkarlsson.nu"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "*"
+  },
+  "homepage": "https://github.com/tjoskar/chain-spy",
+  "keywords": [
+    "spy"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjoskar/chain-spy"
+  }
+}
