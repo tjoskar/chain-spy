@@ -1,6 +1,6 @@
 {
   "name": "chain-spy",
-  "description": "Let's you spy on a chain",
+  "description": "Lets you spy on a chain",
   "version": "1.0.0",
   "scripts": {
     "test": "jest"
