@@ -12,7 +12,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "25.2.4"
+    "jest": "25.2.6"
   },
   "homepage": "https://github.com/tjoskar/chain-spy",
   "keywords": [
