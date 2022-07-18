@@ -2,17 +2,19 @@
   "name": "chain-spy",
   "description": "Lets you spy on a chain",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "test": "jest"
+    "lint": "xo",
+    "test": "vitest"
   },
-  "author": "tjoskar <kontakta@oskarkarlsson.nu>",
+  "author": "tjoskar <hello@tjoskar.dev>",
   "bugs": {
-    "url": "https://github.com/tjoskar/chain-spy/issues",
-    "email": "kontakta@oskarkarlsson.nu"
+    "url": "https://github.com/tjoskar/chain-spy/issues"
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "27.0.6"
+    "vitest": "0.18.1",
+    "xo": "0.50.0"
   },
   "homepage": "https://github.com/tjoskar/chain-spy",
   "keywords": [
@@ -24,8 +26,12 @@
     "type": "git",
     "url": "https://github.com/tjoskar/chain-spy"
   },
-  "jest": {
-    "coverageDirectory": "./coverage/",
-    "collectCoverage": true
+  "volta": {
+    "node": "16.13.1"
+  },
+  "xo": {
+    "rules": {
+      "no-unused-expressions": "off"
+    }
   }
 }
