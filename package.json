@@ -14,7 +14,7 @@
   "dependencies": {},
   "devDependencies": {
     "vitest": "0.18.1",
-    "xo": "0.50.0"
+    "xo": "0.51.0"
   },
   "homepage": "https://github.com/tjoskar/chain-spy",
   "keywords": [
