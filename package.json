@@ -27,7 +27,7 @@
     "url": "https://github.com/tjoskar/chain-spy"
   },
   "volta": {
-    "node": "16.17.0"
+    "node": "22.14.0"
   },
   "xo": {
     "rules": {
